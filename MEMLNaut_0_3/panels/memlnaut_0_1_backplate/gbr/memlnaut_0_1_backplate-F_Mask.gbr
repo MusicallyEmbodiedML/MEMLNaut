@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-03-17T17:13:05+00:00*%
+%TF.ProjectId,memlnaut_0_1_backplate,6d656d6c-6e61-4757-945f-305f315f6261,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-03-17 17:13:05*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X95060000Y-45440000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X89980000Y-140570000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X268040000Y-45390000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X60030000Y-45430000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X59980000Y-140540000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X267740000Y-140240000D03*
+%TD*%
+M02*
